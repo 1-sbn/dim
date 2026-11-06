@@ -8,7 +8,7 @@ Reduces daylight glare in **Valkurm Dunes**, keeping the terrain's detail and th
 
 ## Install
 
-1. Extract `dim.zip` into your `addons` folder.
+1. Use **Download dim.zip** above, then extract it into your `addons` folder. The archive contains only the `dim` folder and its four addon files.
 2. Load the addon:
 
    ```text
@@ -47,8 +47,8 @@ The effect returns automatically each day. Other zones stay unchanged.
 
 ## Before
 
-![Before](before.png)
+![Before](https://raw.githubusercontent.com/1-sbn/dim/bbd38d72957b65bfe57bdbe131327d3c9f9ee018/before.png)
 
 ## After
 
-![After](after.png)
+![After](https://raw.githubusercontent.com/1-sbn/dim/bbd38d72957b65bfe57bdbe131327d3c9f9ee018/after.png)
