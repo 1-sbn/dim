@@ -4,11 +4,9 @@
 
 Reduces daylight glare in **Valkurm Dunes**, keeping the terrain's detail and the rest of the screen clear.
 
-[Download dim.zip](https://github.com/1-sbn/dim/releases/latest/download/dim.zip)
-
 ## Install
 
-1. Use **Download dim.zip** above, then extract it into your `addons` folder. The archive contains only the `dim` folder and its four addon files.
+1. Place the `dim` folder in your `addons` folder.
 2. Load the addon:
 
    ```text
